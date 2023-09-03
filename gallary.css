@@ -1,0 +1,39 @@
+body{
+    padding: 0%;
+    margin: 0%;
+    background-image: url(image/chandralok-rewa-city-rewa-hotels-rs-2001-to-rs-3000--i3kvn49.webp);
+}
+.box{
+    background-color:white;
+    width: 1400px;
+    margin-left: 40px;
+    height: 550px;
+    margin-top: 50px;
+    padding: 0px;
+    
+}
+.main{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    padding: 0px;
+    margin-top: 100px;
+    margin-left: 50px;
+}
+.heading{
+    text-align: center;
+    margin-top: 90px;
+}
+.grid-item {
+    border: 5px;
+}
+.box1{
+    padding: 0;
+    margin: 0;
+    margin-left: 40px;
+}
+.box2{
+    margin-left: 50px;
+}
+.box3{
+    margin-left: 20px;
+}
